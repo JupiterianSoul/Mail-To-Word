@@ -1,7 +1,5 @@
 # Mail to Word
-
 # Web application to export Gmail conversations to Word.
-
 # Features
 • Google Sign-In
 • Search by email address
