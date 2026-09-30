@@ -1,14 +1,13 @@
 # Mail to Word
 
-Application web pour exporter des conversations Gmail vers Word.
+# Web application to export Gmail conversations to Word.
 
-## Fonctionnalités prévues
-
-- Connexion avec Google
-- Recherche par adresse e-mail
-- Sélection du fil de discussion
-- Export en Word, TXT ou JSON
-- Interface simple et partageable
+# Features
+• Google Sign-In
+• Search by email address
+• Thread selection
+• Export to Word, TXT, or JSON
+• Simple and shareable interface
 
 ## Stack
 
